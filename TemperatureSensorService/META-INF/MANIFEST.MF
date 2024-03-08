@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: TemperatureSensorService
+Bundle-SymbolicName: TemperatureSensorService
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.example.smart.home.sensors.temperature
+Bundle-Activator: com.example.smart.home.sensors.temperature.TemperatureSensorActivator
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Import-Package: org.osgi.framework;version="1.3.0"
+
